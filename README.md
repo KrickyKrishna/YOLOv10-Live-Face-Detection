@@ -3,6 +3,7 @@ A YOLOv10 Model trained on a dataset of 2000+ images using RoboFlow &amp; Google
 
 # Dataset the model is trained on : 
 ![Screenshot 2024-07-29 220403](https://github.com/user-attachments/assets/08f30d7b-7be2-4a45-9e68-ce6ec42a5a75)
+
 link to dataset - https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i
 
 # Working of Program : 
